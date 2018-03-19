@@ -1,2 +1,7 @@
-*.spk
-*.nfo
+/clover.xml
+/composer.phar
+/cache/*.nfo
+/cache/*.png
+/packages/*.spk
+/vendor/*
+/.idea/
